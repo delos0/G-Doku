@@ -27,4 +27,4 @@ This project is a grid-based puzzle solver written in Python. It allows users to
    ```bash
    python Main.py
 4. Follow the prompts to input the grid size (k) and the constraint (n).
-5. Make moves to fill the grid and try to solve the puzzle.
+5. Make moves to fill the grid and try to solve the puzzle. Please use the example input file to format your input.
